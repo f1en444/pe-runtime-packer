@@ -91,7 +91,7 @@ pe_runtime pack input.exe output.exe --key 0x5A
 | `--section NAME` | Selects the section used by the packing operation |
 | `--stub NAME`    | Sets the runtime stub section name                |
 
-## 📊 Packing Output
+## Packing Output
 
 After a successful packing operation, the tool reports:
 
