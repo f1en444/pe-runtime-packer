@@ -142,7 +142,7 @@ pe-runtime-packer/
 
 The project is separated into PE image handling, packing functionality, and the command-line interface.
 
-## ⚠️ Limitations
+## Limitations
 
 This project is intended primarily as a **PE-format and systems-programming project**.
 
@@ -158,6 +158,6 @@ Important areas for future development include:
 * Stronger integrity validation
 * More extensive test coverage
 
-License
+## License
 
-No license has been specified yet.
+See the LICENSE file for the full license text.
