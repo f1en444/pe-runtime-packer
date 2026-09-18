@@ -4,7 +4,7 @@ A lightweight **C++ PE (Portable Executable) inspection and runtime packing tool
 
 The project provides a command-line interface for inspecting 64-bit PE images and applying a configurable packing transformation to an input executable.
 
-## ✨ Features
+## Features
 
 * PE image inspection
 * Section enumeration
@@ -18,7 +18,7 @@ The project provides a command-line interface for inspecting 64-bit PE images an
 * C++17 filesystem support
 * Windows-native PE tooling
 
-## 📦 Commands
+## Commands
 
 ### `info`
 
@@ -106,14 +106,14 @@ packed OK
 
 This provides a quick overview of the transformation performed on the PE image.
 
-## 🛠️ Requirements
+## Requirements
 
 * Windows
 * Visual Studio 2022
 * C++17 or later
 * Windows SDK
 
-## 🔨 Building
+## Building
 
 Clone the repository:
 
@@ -130,7 +130,7 @@ The resulting executable can then be used from a terminal:
 pe_runtime.exe info example.exe
 ```
 
-## 🧩 Project Structure
+## Project Structure
 
 ```text
 pe-runtime-packer/
@@ -158,12 +158,6 @@ Important areas for future development include:
 * Stronger integrity validation
 * More extensive test coverage
 
-## 📌 Status
-
-🚧 **Work in progress**
-
-The project is under active development.
-
-## 📄 License
+License
 
 No license has been specified yet.
